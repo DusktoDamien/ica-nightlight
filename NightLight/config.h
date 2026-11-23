@@ -12,6 +12,7 @@
 const int LED_PIN          = 9;    // must be a PWM pin (marked with ~)
 const int BUTTON_PIN       = 2;
 const int LIGHT_SENSOR_PIN = A0;
+const unsigned long LOG_INTERVAL_MS = 500;
 
 // ---------- Modes ----------
 enum Mode { MODE_OFF, MODE_AUTO, MODE_ON };
