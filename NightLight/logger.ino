@@ -28,4 +28,6 @@ void logStatus(int light) {
     Serial.println(ledBrightness);
   }
 }
-// TODO Task 6 (Developer B): add logBanner() below this line.
+void logBanner(){
+  Serial.println("NightLight is starting, Button cycles modes");
+}
