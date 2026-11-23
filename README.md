@@ -14,7 +14,7 @@ A small Arduino night light that your team builds together while practicing Git 
 
 **Project Manager:** Damien Bradley (DusktoDamien)
 
-**Developer A (Sensor):** Your Name (your GitHub username)
+**Developer A (Sensor):** Sonu Khunt (so-new03)
 
 **Developer B (LED):** Your Name (your GitHub username)
 
