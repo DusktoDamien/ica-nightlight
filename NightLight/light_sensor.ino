@@ -11,4 +11,11 @@ int readLight() {
   return sum / SENSOR_SAMPLES;
 }
 
+
 // TODO Task 8 (Project Manager): add lightLabel() below this line.
+const char* lightLabel(int light) {
+  if (light < DARK_THRESHOLD) {
+    return "dark";
+  }
+  return "bright";
+}
